@@ -5,6 +5,8 @@ http://veganbunny.com/portfolio/superfood/
 
 This is an iOS app I created for a college class. Utilized the Xcode IDE, Cocoa Touch framework, and Objective-C.
 
+I do not own all images in these files.
+
 Icon
 
 ![bars 2](http://veganbunny.com/portfolio/images/superfood/icon.png)
