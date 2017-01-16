@@ -7,34 +7,34 @@ This is an iOS app that I created in 2012 for a college class. Utilized the Xcod
 
 Icon
 
-![bars 2](http://veganbunny.com/portfolio/images/superfood/icon.png)
+![icon](https://raw.githubusercontent.com/iamveronica/superfood/master/icon.png)
 
 Loading View
 
-![loading view](http://veganbunny.com/portfolio/images/superfood/super1.png)
+![loading view](https://raw.githubusercontent.com/iamveronica/superfood/master/super1.png)
 
 Superfoods
 
-![superfoods](http://veganbunny.com/portfolio/images/superfood/super2.png)
+![superfoods](https://raw.githubusercontent.com/iamveronica/superfood/master/super2.png)
 
 Blueberries
 
-![blueberries](http://veganbunny.com/portfolio/images/superfood/super3.png)
+![blueberries](https://raw.githubusercontent.com/iamveronica/superfood/master/super3.png)
 
 Blueberries Scrolled
 
-![blueberries 2](http://veganbunny.com/portfolio/images/superfood/super4.png)
+![blueberries 2](https://raw.githubusercontent.com/iamveronica/superfood/master/super4.png)
 
 Recipes
 
-![recipes](http://veganbunny.com/portfolio/images/superfood/super5.png)
+![recipes](https://raw.githubusercontent.com/iamveronica/superfood/master/super5.png)
 
 Blueberry Oat Bars
 
-![bars](http://veganbunny.com/portfolio/images/superfood/super6.png)
+![bars](https://raw.githubusercontent.com/iamveronica/superfood/master/super6.png)
 
 Blueberry Oat Bars Scrolled
 
-![bars 2](http://veganbunny.com/portfolio/images/superfood/super7.png)
+![bars 2](https://raw.githubusercontent.com/iamveronica/superfood/master/super7.png)
 
 
