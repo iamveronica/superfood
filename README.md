@@ -1,8 +1,6 @@
 superfood
 =========
 
-http://veganbunny.com/portfolio/superfood/
-
 This is an iOS app that I created in 2012 for a college class. Utilized the Xcode IDE, Cocoa Touch framework, and Objective-C.
 
 Icon
